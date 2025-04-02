@@ -1,11 +1,72 @@
 {
-  "timestamp": "2025-04-02T20:15:49.438Z",
+  "timestamp": "2025-04-02T20:16:17.241Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 10,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, subheadline, and booking CTA"
+    },
+    {
+      "name": "AboutUsSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section highlighting the restaurant's experience and expertise"
+    },
+    {
+      "name": "FeaturedDishesSection",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of signature dishes and menu highlights"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Overview of restaurant services including catering, events, etc."
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive reservation system for table bookings"
+    },
+    {
+      "name": "TestimonialsCarousel",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Carousel showcasing customer reviews and experiences"
+    },
+    {
+      "name": "FAQAccordion",
+      "type": "faq",
+      "status": "pending",
+      "description": "Expandable FAQ section addressing common customer questions"
+    },
+    {
+      "name": "GalleryGrid",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual showcase of the restaurant atmosphere and dishes"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and inquiry form"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with navigation, social links, and legal information"
+    }
+  ],
   "repoName": ""
 }
